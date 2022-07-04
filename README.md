@@ -4,6 +4,14 @@ This repo compares matlab and numpy (a python library)  in signal analysis.  Dat
 
 ## Table of Contents
 
+[01_Basic_operations](https://github.com/zht007/matlab_vs_numpy/tree/main/01_Basic_operations)
+
+[02_Signal_preprocessing_resample](https://github.com/zht007/matlab_vs_numpy/tree/main/02_Signal_preprocessing_resample_and_segment)
+
+[03_Signal_normalisation_and_event](https://github.com/zht007/matlab_vs_numpy/tree/main/03_Signal_normalisation_and_event_detection)
+
+[04_Fourier_transform](https://github.com/zht007/matlab_vs_numpy/tree/main/04_Fourier_transform)
+
 ##  How to Use Jupyter nootbook with matlab 
 
 #### 1. install python, matlab
@@ -29,18 +37,16 @@ pip install matlab kernal
 ```
 pip install notebook
 ```
+
 #### 5. Start jupyter notebook
 
+```
+jupyter notebook
 ```
 
 If you open jupyter notebook in your browser and select malab in the kernel, you can use matlab in jupyter notebook just like python.
 
-Reference.
-
-[begin_matlab/00. Introduction.ipynb at master - APMonitor/begin_matlab - GitHub](
-
-Translated with www.DeepL.com/Translator (free version)
-```
+----
 
 Reference：
 
