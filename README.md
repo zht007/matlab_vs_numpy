@@ -1,16 +1,18 @@
 ## Overview
 
-This repo compares matlab and numpy (a python library)  in signal analysis.  Data and matlab code obtained from [the lecture](http://cflu.lab.nycu.edu.tw/) of Dr Chia-Feng Lu
+This repo compares Matlab and numpy (a python library)  in signal analysis.  Data and matlab code obtained from [the lecture](http://cflu.lab.nycu.edu.tw/) of Dr Chia-Feng Lu
 
 ## Table of Contents
 
 [01_Basic_operations](https://github.com/zht007/matlab_vs_numpy/tree/main/01_Basic_operations)
 
-[02_Signal_preprocessing_resample](https://github.com/zht007/matlab_vs_numpy/tree/main/02_Signal_preprocessing_resample_and_segment)
+[02_Signal_preprocessing_resample_and_segment](https://github.com/zht007/matlab_vs_numpy/tree/main/02_Signal_preprocessing_resample_and_segment)
 
-[03_Signal_normalisation_and_event](https://github.com/zht007/matlab_vs_numpy/tree/main/03_Signal_normalisation_and_event_detection)
+[03_Signal_normalisation_and_event_detection](https://github.com/zht007/matlab_vs_numpy/tree/main/03_Signal_normalisation_and_event_detection)
 
 [04_Fourier_transform](https://github.com/zht007/matlab_vs_numpy/tree/main/04_Fourier_transform)
+
+[05_FIR_and_IIR_filters](https://github.com/zht007/matlab_vs_numpy/tree/main/05_FIR_and_IIR_filters)
 
 ##  How to Use Jupyter nootbook with matlab 
 
