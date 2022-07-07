@@ -1,6 +1,6 @@
 ## Overview
 
-This repo compares Matlab and numpy (a python library)  in signal analysis.  Data and matlab code obtained from [the lecture](http://cflu.lab.nycu.edu.tw/) of Dr Chia-Feng Lu
+This repo is  tutorial comparing Matlab and [numpy](https://numpy.org/) (a python library)  in signal analysis.  Data and Matlab code obtained from [the lecture](http://cflu.lab.nycu.edu.tw/) of Dr Chia-Feng Lu. The corresponding python code is provided to help readers to learn how to use free  [numpy](https://numpy.org/), [scipy](https://docs.scipy.org/doc/scipy/index.html) and [scikit-learn](https://scikit-learn.org/) library in python to conduct signal analysis tasks. 
 
 ## Table of Contents
 
@@ -13,6 +13,8 @@ This repo compares Matlab and numpy (a python library)  in signal analysis.  Dat
 [04_Fourier_transform](https://github.com/zht007/matlab_vs_numpy/tree/main/04_Fourier_transform)
 
 [05_FIR_and_IIR_filters](https://github.com/zht007/matlab_vs_numpy/tree/main/05_FIR_and_IIR_filters)
+
+[06_Time_frequency_analysis](https://github.com/zht007/matlab_vs_numpy/tree/main/06_Time_frequency_analysis)
 
 ##  How to Use Jupyter nootbook with matlab 
 
