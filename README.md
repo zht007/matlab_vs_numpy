@@ -1,20 +1,44 @@
 ## Overview
 
-This repo is  tutorial comparing Matlab and [numpy](https://numpy.org/) (a python library)  in signal analysis.  Data and Matlab code obtained from [the lecture](http://cflu.lab.nycu.edu.tw/) of Dr Chia-Feng Lu. The corresponding python code is provided to help readers to learn how to use free  [numpy](https://numpy.org/), [scipy](https://docs.scipy.org/doc/scipy/index.html) and [scikit-learn](https://scikit-learn.org/) library in python to conduct signal analysis tasks. 
+This repo is a tutorial comparing Matlab and [numpy](https://numpy.org/) (a python library)  in signal analysis.  Data and Matlab code obtained from [the lecture](http://cflu.lab.nycu.edu.tw/) of Dr Chia-Feng Lu. The corresponding python code is provided to help readers to learn how to use free  [numpy](https://numpy.org/), [scipy](https://docs.scipy.org/doc/scipy/index.html) and [scikit-learn](https://scikit-learn.org/) library in python to conduct signal analysis tasks. 
 
 ## Table of Contents
 
-[01_Basic_operations](https://github.com/zht007/matlab_vs_numpy/tree/main/01_Basic_operations)
+**[01_Basic_operations](https://github.com/zht007/matlab_vs_numpy/tree/main/01_Basic_operations)**
 
-[02_Signal_preprocessing_resample_and_segment](https://github.com/zht007/matlab_vs_numpy/tree/main/02_Signal_preprocessing_resample_and_segment)
+[Basic_operations_matlab.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/01_Basic_operations/Basic_operations_matlab.ipynb)
 
-[03_Signal_normalisation_and_event_detection](https://github.com/zht007/matlab_vs_numpy/tree/main/03_Signal_normalisation_and_event_detection)
+[Basic_operations_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/01_Basic_operations/Basic_operations_python.ipynb)
 
-[04_Fourier_transform](https://github.com/zht007/matlab_vs_numpy/tree/main/04_Fourier_transform)
+[**02_Signal_preprocessing_resample_and_segment**](https://github.com/zht007/matlab_vs_numpy/tree/main/02_Signal_preprocessing_resample_and_segment)
 
-[05_FIR_and_IIR_filters](https://github.com/zht007/matlab_vs_numpy/tree/main/05_FIR_and_IIR_filters)
+[Resample_and_segment_matlab.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/02_Signal_preprocessing_resample_and_segment/Resample_and_segment_matlab.ipynb)
 
-[06_Time_frequency_analysis](https://github.com/zht007/matlab_vs_numpy/tree/main/06_Time_frequency_analysis)
+[Resample_and_segment_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/02_Signal_preprocessing_resample_and_segment/Resample_and_segment_python.ipynb)
+
+**[03_Signal_normalisation_and_event_detection](https://github.com/zht007/matlab_vs_numpy/tree/main/03_Signal_normalisation_and_event_detection)**
+
+[Normalization_and_event_detection_matlab.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/03_Signal_normalisation_and_event_detection/Normalization_and_event_detection_matlab.ipynb)
+
+[Normalization_and_event_detection_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/03_Signal_normalisation_and_event_detection/Normalization_and_event_detection_python.ipynb)
+
+**[04_Fourier_transform](https://github.com/zht007/matlab_vs_numpy/tree/main/04_Fourier_transform)**
+
+[ECG_data_analysis_FFT_and_welch_method_matlab.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/04_Fourier_transform/ECG_data_analysis_FFT_and_welch_method_matlab.ipynb)
+
+[ECG_data_analysis_FFT_and_welch_method_python.pynbi](https://github.com/zht007/matlab_vs_numpy/blob/main/04_Fourier_transform/ECG_data_analysis_FFT_and_welch_method_python.ipynb)
+
+**[05_FIR_and_IIR_filters](https://github.com/zht007/matlab_vs_numpy/tree/main/05_FIR_and_IIR_filters)**
+
+[FIR_and_IIR_filter_matlab.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/05_FIR_and_IIR_filters/FIR_and_IIR_filter_matlab.ipynb)
+
+[FIR_and_IIR_filter_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/05_FIR_and_IIR_filters/FIR_and_IIR_filter_python.ipynb)
+
+**[06_Time_frequency_analysis](https://github.com/zht007/matlab_vs_numpy/tree/main/06_Time_frequency_analysis)**
+
+[FIR_and_IIR_filter_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/05_FIR_and_IIR_filters/FIR_and_IIR_filter_python.ipynb)
+
+[FIR_and_IIR_filter_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/05_FIR_and_IIR_filters/FIR_and_IIR_filter_python.ipynb)
 
 ##  How to Use Jupyter nootbook with matlab 
 
