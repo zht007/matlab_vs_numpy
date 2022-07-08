@@ -44,6 +44,12 @@ You can click [![Open In Colab](https://camo.githubusercontent.com/84f0493939e0c
 
 [FIR_and_IIR_filter_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/05_FIR_and_IIR_filters/FIR_and_IIR_filter_python.ipynb)[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/matlab_vs_numpy/blob/main/05_FIR_and_IIR_filters/FIR_and_IIR_filter_python.ipynb)
 
+**[07_PCA_and_ICA_analysis](https://github.com/zht007/matlab_vs_numpy/tree/main/07_PCA_and_ICA_analysis)**
+
+[PCA_and_FastICA_matlab.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/07_PCA_and_ICA_analysis/PCA_and_FastICA_matlab.ipynb))[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/zht007/matlab_vs_numpy/blob/main/07_PCA_and_ICA_analysis/PCA_and_FastICA_matlab.ipynb)
+
+[PCA_and_fastICA_python.ipynb](https://github.com/zht007/matlab_vs_numpy/blob/main/07_PCA_and_ICA_analysis/PCA_and_fastICA_python.ipynb)
+
 ##  How to Use Jupyter nootbook with matlab 
 
 #### 1. install python, matlab
