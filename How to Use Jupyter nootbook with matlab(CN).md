@@ -9,7 +9,7 @@
 ### 2. 安装 matlab_kernel
 
 ```
-pip install matlab kernal
+pip install matlab_kernal
 ```
 
 ### 3. 配置 matlab_kernal

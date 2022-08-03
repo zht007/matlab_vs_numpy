@@ -61,7 +61,7 @@ The matlab software and Python need to be installed.
 #### 2. install matlab_kernel
 
 ```
-pip install matlab kernal
+pip install matlab_kernal
 ```
 
 #### 3. Configure matlab_kernal
